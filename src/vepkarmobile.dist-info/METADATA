@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.12
+Name: vepkarmobile
+Formal-Name: Vepkar mobile
+App-ID: com.example.vepkarmobile
+Version: 0.0.1
+Home-page: https://example.com/vepkarmobile
+Download-URL: https://example.com/vepkarmobile
+Author: Arseniy Markov
+Author-email: markov-arseny@mail.ru
+Summary: Modile application - dictionary of the Karelian language.
