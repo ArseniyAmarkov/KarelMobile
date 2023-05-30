@@ -11,8 +11,8 @@ https://beeware.org/project/projects/tools/briefcase/
 
 Для запуска программы на эмуляторе (мобильном телефоне) необходимо выполнить следующие команды в консоли (находясь в папке приложения):
 
-briefcase create android 
+$ briefcase create android 
 
-briefcase build android
+$ briefcase build android
 
-briefcase run android
+$ briefcase run android
