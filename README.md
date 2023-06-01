@@ -9,7 +9,9 @@ https://beeware.org/project/projects/libraries/toga/
 
 https://beeware.org/project/projects/tools/briefcase/
 
-Для работы программы необходимо добавить файл БД SQLite: vepkar_sqlite_compact, в папку src/vepkarmobile
+Для работы программы необходимо добавить файл БД SQLite: vepkar_sqlite_compact, в папку src/vepkarmobile. Скачать его можно по ссылке:
+
+https://drive.google.com/drive/u/0/folders/1OQCIa8fQrtdwDkmp408o9DbKXD3sRBH5
 
 Для запуска программы на эмуляторе (мобильном телефоне) необходимо выполнить следующие команды в консоли (находясь в папке приложения):
 
